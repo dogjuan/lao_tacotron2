@@ -1,0 +1,2 @@
+# lao_tacotron2
+添加XLM-Roberta预训练模型和Guide Attention Loss方法的tacotron2下的低资源老挝语合成任务
